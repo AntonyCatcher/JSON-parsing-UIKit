@@ -1,0 +1,37 @@
+[
+    {
+        "kettleManufacturer" : "Bosch",
+        "kettleColor"  : ["Gray", "Orange", "Blue"],
+        "kettlePrice"  : 50,
+    },
+    {
+        "kettleManufacturer" : "LG",
+        "kettleColor"  : ["White", "Orange", "Purple", "Black"],
+        "kettlePrice"  : 30,
+    },
+    {
+        "kettleManufacturer" : "Vitek",
+        "kettleColor"  : ["Blue", "Gray", "Yellow", "White"],
+        "kettlePrice"  : 20,
+    },
+    {
+        "kettleManufacturer" : "Smeg",
+        "kettleColor"  : ["Black", "White", "Grey"],
+        "kettlePrice"  : 100,
+    },
+    {
+        "kettleManufacturer" : "Delongi",
+        "kettleColor"  : ["Gray", "Black", "Orange"],
+        "kettlePrice"  : 60,
+    },
+    {
+        "kettleManufacturer" : "Panasonic",
+        "kettleColor"  : ["Orange", "Silver", "Gold", "Black"],
+        "kettlePrice"  : 70,
+    },
+    {
+        "kettleManufacturer" : "Siemens",
+        "kettleColor"  : ["Silver", "Aqua", "Blue", "Orange"],
+        "kettlePrice"  : 50,
+    },
+]
